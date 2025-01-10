@@ -1,0 +1,5 @@
+Churn Rate = ROUND([Churned Customers] / [Total Customers],2)
+Churned Customers = SUM(Customer_Data[Customer Status])
+New Customers = CALCULATE(COUNT(Customer_Data[Customer_ID]),Customer_Data[Customer_Status] = "Joined")
+Total Customers = COUNT(Customer_Data[Customer_ID])
+Title Churn = "Total Predicted Churn: " & FORMAT(COUNTROWS('Predicted Data'), "#,0")
