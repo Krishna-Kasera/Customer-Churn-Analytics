@@ -16,6 +16,8 @@ This project focuses on analyzing and predicting customer churn patterns using m
 📁 Customer-Churn-Analysis/
 ├─ 📄 README.md
 ├─ 📄 requirements.txt
+├─ 📁 Notebook/
+│  ├─ Churn_Analysis.ipynb           # Jupyter notebook with analysis and model training process
 ├─ 📁 Datasets/
 │  ├─ 📄 Customer_Data.csv           # Original dataset
 │  └─ 📄 Predicted_Data.csv          # New joiners predictions
