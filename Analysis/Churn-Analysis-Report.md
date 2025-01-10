@@ -2,13 +2,13 @@
 
 ## Executive Summary
 
-Our analysis reveals concerning customer attrition rates, with 27% of our customer base (1,732 out of 6,413 customers) having discontinued their services. This report examines the key patterns in customer churn and provides actionable recommendations.
+The analysis reveals concerning customer attrition rates, with 27% of the customer base (1,732 out of 6,413 customers) having discontinued their services. This report examines the key patterns in customer churn and provides actionable recommendations.
 
 ## Key Findings
 
 ### Demographics and Geographic Distribution
 
-We've identified significant demographic disparities in our churn rates, with female customers accounting for 65% of all churned accounts. This suggests potential underlying issues in how our services meet the needs of our female customer base.
+I've identified significant demographic disparities in the churn rates, with female customers accounting for 65% of all churned accounts. This suggests potential underlying issues in how our services meet the needs of our female customer base.
 
 Geographic analysis reveals concentrated customer losses in three primary regions:
 
